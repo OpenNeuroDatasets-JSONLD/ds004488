@@ -1,0 +1,3 @@
+This is an large-scale fMRI dataset for understanding human action representation.
+
+Human Action Dataset(HAD) is a large-scale, rapid-event related human action recognition fMRI dataset collected on 30 subjects, each viewing 720 video clips over 180 human action categories. The stimulus was selected from HACS Clips(Human Action Clips and Segments, http://hacs.csail.mit.edu/)
