@@ -59,7 +59,7 @@
   "SoftwareVersions": "syngo MR E11",
   "SpacingBetweenSlices": 2,
   "StationName": "AWP166078",
-  "TaskName": "Action recognition task to identify whether the presented action is a sport or not",
+  "TaskName": "TODO: full task name for action",
   "TotalReadoutTime": 0.0534586,
   "dcmmeta_reorient_transform": [
     [0.0, -1.0, 0.0, 99.0],
